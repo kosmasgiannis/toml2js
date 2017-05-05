@@ -1,0 +1,42 @@
+{
+  "name": "toml2js",
+  "version": "1.0.0",
+  "description": "A command-line utility to convert TOML to JSON.",
+  "keywords": [
+    "json",
+    "toml"
+  ],
+  "author": {
+    "name": "Giannis Kosmas",
+    "url": "https://github.com/kosmasgiannis"
+  },
+  "main": "toml2js.js",
+  "bin": {
+    "toml2js": "toml2js.js"
+  },
+  "dependencies": {
+    "concat-stream": "^1.6.0",
+    "toml": "^2.3.2"
+  },
+  "devDependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "homepage": "https://github.com/kosmasgiannis/toml2js",
+  "preferGlobal": true,
+  "private": false,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosmasgiannis/toml2js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kosmasgiannis/toml2js/issues"
+  },
+  "maintainers": [
+    {
+      "name": "Giannis Kosmas",
+      "email": "kosmasgiannis@gmail.com"
+    }
+  ]
+}
