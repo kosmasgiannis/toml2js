@@ -34,11 +34,11 @@ $ toml2js test/simple.toml
 
 The toml2js utility exits with one of the following values:
 
-    | Code |  Description                            |
-    |------|-----------------------------------------|
-    |   0  |  input was parsed successfully.         |
-    |   1  |  failed to parse input.                 |
-    |   2  |  An error occurred while reading input. |
+| Code |  Description                            |
+|------|-----------------------------------------|
+|   0  |  input was parsed successfully.         |
+|   1  |  failed to parse input.                 |
+|   2  |  An error occurred while reading input. |
 
 License
 -------
